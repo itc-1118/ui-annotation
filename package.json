@@ -1,0 +1,18 @@
+{
+  "name": "ui-annotation",
+  "version": "1.0.0",
+  "description": "ui 设计稿 切图 备注 类似蓝湖标注页面 即属性展示",
+  "main": "index.js",
+  "repository": "https://github.com/itc-1118/ui-annotation.git",
+  "author": "itc <itc@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node serve.js"
+  },
+  "devDependencies": {
+    "opn": "^6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
